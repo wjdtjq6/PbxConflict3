@@ -51,7 +51,7 @@
 		BF35BEED2CB4F6A7002970EF /* PbxConflict3 */ = {
 			isa = PBXGroup;
 			children = (
-				BF35BEFC2CB4F897002970EF /* Den */,
+				BF35BEFD2CB4FA11002970EF /* Bran */,
 				BF35BEF42CB4F6A9002970EF /* Preview Content */,
 			);
 			path = PbxConflict3;
@@ -65,14 +65,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		BF35BEFC2CB4F897002970EF /* Den */ = {
+		BF35BEFD2CB4FA11002970EF /* Bran */ = {
 			isa = PBXGroup;
 			children = (
 				BF35BEEE2CB4F6A7002970EF /* PbxConflict3App.swift */,
 				BF35BEF02CB4F6A7002970EF /* ContentView.swift */,
 				BF35BEF22CB4F6A9002970EF /* Assets.xcassets */,
 			);
-			path = Den;
+			path = Bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
